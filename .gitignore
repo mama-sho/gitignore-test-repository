@@ -1,6 +1,7 @@
 #この行はコメント
 AppDelegate.swift
-/gitignore
+/.gitignore
+/.DS_Store
 /GitignoreTest/TestFile/ViewController.swift
 /GitignoreTest/Model/
 Assets.xcassets
