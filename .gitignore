@@ -1,0 +1,10 @@
+#この行はコメント
+AppDelegate.swift
+/gitignore
+/GitignoreTest/TestFile/ViewController.swift
+/GitignoreTest/Model/
+Assets.xcassets
+View/
+banana-a
+/GitignoreTest/*.plist
+/GitignoreTest/test.plist
