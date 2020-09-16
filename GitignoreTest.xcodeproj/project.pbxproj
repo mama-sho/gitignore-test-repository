@@ -20,6 +20,7 @@
 		F2771BFE250D0FAE003E6E34 /* bananaViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2771BFD250D0FAE003E6E34 /* bananaViewController.swift */; };
 		F2771C00250D175C003E6E34 /* File.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2771BFF250D175C003E6E34 /* File.swift */; };
 		F2B49E9D2511EAA5007D54A4 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2B49E9C2511EAA5007D54A4 /* ViewController.swift */; };
+		F2B49E9F2511ED5A007D54A4 /* Property List.plist in Resources */ = {isa = PBXBuildFile; fileRef = F2B49E9E2511ED5A007D54A4 /* Property List.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -38,6 +39,7 @@
 		F2771BFD250D0FAE003E6E34 /* bananaViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = bananaViewController.swift; sourceTree = "<group>"; };
 		F2771BFF250D175C003E6E34 /* File.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = File.swift; sourceTree = "<group>"; };
 		F2B49E9C2511EAA5007D54A4 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		F2B49E9E2511ED5A007D54A4 /* Property List.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = "Property List.plist"; path = "Test Spece gitignore/Property List.plist"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -89,6 +91,7 @@
 				F27458CB250D03B300C55234 /* Assets.xcassets */,
 				F27458D9250D049400C55234 /* test.plist */,
 				F27458D0250D03B300C55234 /* Info.plist */,
+				F2B49E9E2511ED5A007D54A4 /* Property List.plist */,
 				F2771BFB250D0F93003E6E34 /* banana.swift */,
 				F2771BFD250D0FAE003E6E34 /* bananaViewController.swift */,
 			);
@@ -197,6 +200,7 @@
 				F27458DA250D049400C55234 /* test.plist in Resources */,
 				F27458CF250D03B300C55234 /* LaunchScreen.storyboard in Resources */,
 				F27458CC250D03B300C55234 /* Assets.xcassets in Resources */,
+				F2B49E9F2511ED5A007D54A4 /* Property List.plist in Resources */,
 				F27458CA250D03B000C55234 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

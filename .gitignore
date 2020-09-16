@@ -1,7 +1,5 @@
 #この行はコメント
 AppDelegate.swift
-#ファイルにスペースがある時 バックスラッシュ\
-/GitignoreTest/Test\ Spece\ gitignore/
 /.gitignore
 /.DS_Store
 /GitignoreTest/TestFile/ViewController.swift
@@ -9,5 +7,5 @@ AppDelegate.swift
 Assets.xcassets
 View/
 banana-a
-/GitignoreTest/*.plist
-/GitignoreTest/test.plist
+
+*.plist
