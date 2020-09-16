@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		F20AA8A72511E59600AC72E5 /* testViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F20AA8A62511E59600AC72E5 /* testViewController.swift */; };
 		F27458C3250D03B000C55234 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F27458C2250D03B000C55234 /* AppDelegate.swift */; };
 		F27458C5250D03B000C55234 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F27458C4250D03B000C55234 /* SceneDelegate.swift */; };
 		F27458C7250D03B000C55234 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F27458C6250D03B000C55234 /* ViewController.swift */; };
@@ -21,6 +22,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		F20AA8A62511E59600AC72E5 /* testViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = testViewController.swift; sourceTree = "<group>"; };
 		F27458BF250D03B000C55234 /* GitignoreTest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GitignoreTest.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F27458C2250D03B000C55234 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		F27458C4250D03B000C55234 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -47,6 +49,14 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		F20AA8A52511E56D00AC72E5 /* New Test */ = {
+			isa = PBXGroup;
+			children = (
+				F20AA8A62511E59600AC72E5 /* testViewController.swift */,
+			);
+			path = "New Test";
+			sourceTree = "<group>";
+		};
 		F27458B6250D03B000C55234 = {
 			isa = PBXGroup;
 			children = (
@@ -71,6 +81,7 @@
 				F27458D8250D041300C55234 /* Controller */,
 				F27458C2250D03B000C55234 /* AppDelegate.swift */,
 				F27458C4250D03B000C55234 /* SceneDelegate.swift */,
+				F20AA8A52511E56D00AC72E5 /* New Test */,
 				F27458DB250D050000C55234 /* TestFile */,
 				F27458CB250D03B300C55234 /* Assets.xcassets */,
 				F27458D9250D049400C55234 /* test.plist */,
@@ -188,6 +199,7 @@
 			files = (
 				F27458C7250D03B000C55234 /* ViewController.swift in Sources */,
 				F27458C3250D03B000C55234 /* AppDelegate.swift in Sources */,
+				F20AA8A72511E59600AC72E5 /* testViewController.swift in Sources */,
 				F2771C00250D175C003E6E34 /* File.swift in Sources */,
 				F27458DD250D051F00C55234 /* ViewController.swift in Sources */,
 				F2771BFE250D0FAE003E6E34 /* bananaViewController.swift in Sources */,

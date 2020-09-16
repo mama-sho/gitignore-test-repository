@@ -1,5 +1,6 @@
 #この行はコメント
 AppDelegate.swift
+/GitignoreTest/New Test/
 /.gitignore
 /.DS_Store
 /GitignoreTest/TestFile/ViewController.swift
