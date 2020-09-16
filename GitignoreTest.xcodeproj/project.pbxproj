@@ -19,6 +19,7 @@
 		F2771BFC250D0F93003E6E34 /* banana.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2771BFB250D0F93003E6E34 /* banana.swift */; };
 		F2771BFE250D0FAE003E6E34 /* bananaViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2771BFD250D0FAE003E6E34 /* bananaViewController.swift */; };
 		F2771C00250D175C003E6E34 /* File.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2771BFF250D175C003E6E34 /* File.swift */; };
+		F2B49E9D2511EAA5007D54A4 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2B49E9C2511EAA5007D54A4 /* ViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -36,6 +37,7 @@
 		F2771BFB250D0F93003E6E34 /* banana.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = banana.swift; sourceTree = "<group>"; };
 		F2771BFD250D0FAE003E6E34 /* bananaViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = bananaViewController.swift; sourceTree = "<group>"; };
 		F2771BFF250D175C003E6E34 /* File.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = File.swift; sourceTree = "<group>"; };
+		F2B49E9C2511EAA5007D54A4 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +83,7 @@
 				F27458D8250D041300C55234 /* Controller */,
 				F27458C2250D03B000C55234 /* AppDelegate.swift */,
 				F27458C4250D03B000C55234 /* SceneDelegate.swift */,
+				F2B49E9B2511EA6E007D54A4 /* Test Spece gitignore */,
 				F20AA8A52511E56D00AC72E5 /* New Test */,
 				F27458DB250D050000C55234 /* TestFile */,
 				F27458CB250D03B300C55234 /* Assets.xcassets */,
@@ -123,6 +126,14 @@
 				F27458DC250D051F00C55234 /* ViewController.swift */,
 			);
 			path = TestFile;
+			sourceTree = "<group>";
+		};
+		F2B49E9B2511EA6E007D54A4 /* Test Spece gitignore */ = {
+			isa = PBXGroup;
+			children = (
+				F2B49E9C2511EAA5007D54A4 /* ViewController.swift */,
+			);
+			path = "Test Spece gitignore";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -200,6 +211,7 @@
 				F27458C7250D03B000C55234 /* ViewController.swift in Sources */,
 				F27458C3250D03B000C55234 /* AppDelegate.swift in Sources */,
 				F20AA8A72511E59600AC72E5 /* testViewController.swift in Sources */,
+				F2B49E9D2511EAA5007D54A4 /* ViewController.swift in Sources */,
 				F2771C00250D175C003E6E34 /* File.swift in Sources */,
 				F27458DD250D051F00C55234 /* ViewController.swift in Sources */,
 				F2771BFE250D0FAE003E6E34 /* bananaViewController.swift in Sources */,

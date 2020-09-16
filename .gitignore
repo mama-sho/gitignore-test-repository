@@ -1,6 +1,7 @@
 #この行はコメント
 AppDelegate.swift
-/GitignoreTest/New Test/
+#ファイルにスペースがある時 バックスラッシュ\
+/GitignoreTest/Test\ Spece\ gitignore/
 /.gitignore
 /.DS_Store
 /GitignoreTest/TestFile/ViewController.swift
